@@ -1,0 +1,7 @@
+.env
+items.json
+node_modules
+.vscode/*
+assets/*
+dist/*
+old/*
